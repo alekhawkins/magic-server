@@ -1,9 +1,4 @@
 const router = require('express').Router();
-// console.log(require);
-// const Deck = require('../db').import('./models/deck');
-// require('../db');
-// require('../models/deck');
-
 
 //GET
 router.get('/deck',  function(req, res) {

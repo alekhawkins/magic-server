@@ -1,5 +1,4 @@
 const router = require('express').Router();
-// const Format = require('../db').import('../models/format');
 
 //GET
 router.get('/format',  function(req, res) {

@@ -1,5 +1,4 @@
 const router = require('express').Router();
-// const Person = require('../db').import('../models/person');
 
 //GET
 router.get('/person',  function(req, res) {
